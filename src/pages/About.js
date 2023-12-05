@@ -1,6 +1,6 @@
 const About = () => {
     return (
-    <div className="grow flex text-white flex-col justify-center items-start px-64 z-50 font-fira">
+    <div className="grow flex text-white flex-col justify-center items-start px-64 z-50 font-manrope">
         <p className='text-6xl mb-14 animate-fade-right font-quicksand'>About</p>
         <p className='text-2xl mb-10' align="left">
         Hi there! I'm Sam, a student at the University of Pennsylvania. I'm currently pursuing a Bachelor's of Science in Engineering in Computer Science, with minors in Data Science and Mathematics.
