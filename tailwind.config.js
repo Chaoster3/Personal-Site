@@ -34,7 +34,8 @@ module.exports = {
         'test': '#002551',
         'back': '#201c1c',
         'w': '#E8FFFE',
-        'hov': '#524747'
+        'hov': '#524747',
+        'tester': '#29CFCF',
       },
     },
   },

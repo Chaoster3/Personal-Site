@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
@@ -11,13 +11,13 @@ const App = () => {
   return (
     <div className="App flex flex-col h-screen bg-center bg-radial bg-squares back">
     <AppParticles/>
-      <BrowserRouter>
+      <HashRouter>
         <Navbar/>
         <Routes>
           <Route path='/' element={<Home />}/>
           <Route path='/about' element={<About />}/>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
       <Socialsbar/>
     </div>
   );

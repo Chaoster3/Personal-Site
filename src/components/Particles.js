@@ -46,7 +46,7 @@ const AppParticles = () => {
               quantity: 2,
             },
             repulse: {
-              distance: 40,
+              distance: 50,
               factor: 2,
             }
           }
@@ -60,7 +60,7 @@ const AppParticles = () => {
         //229ECB
         //479292
           links: {
-            color: '#437b7b',
+            color: '#418787',
             distance: 150,
             enable: true,
             opacity: 0.4,
