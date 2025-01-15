@@ -10,7 +10,7 @@ const About = () => {
          I've always been fascinated by how technology can be used to solve tough problems and shape the future. 
          This has led me to explore diverse engineering experiences addressing challenges in a variety of fields<code>&#8212;</code> from gravitational waves to multi-agent pathfinding to surgical robotics.
         </p>
-         <p className='text-2xl' align="left">In my free time, you can find me climbing rocks, reading books, or looking for the best food trucks.
+         <p className='text-2xl' align="left">In my free time, you can find me rock climbing, reading books, or looking for the best food trucks.
          </p>
     </div>
     )
